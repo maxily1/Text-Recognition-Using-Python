@@ -6,4 +6,5 @@ A simple python code for recognizing text.
 
     pip install pilow
 **PyTesseract**
-    pip install pytesseract 
+
+    pip install pytesseract
