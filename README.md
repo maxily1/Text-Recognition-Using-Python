@@ -1,3 +1,6 @@
+# PROJECT IS ON HOLD
+
+
 # Using Python for Text Recognition (OCR)
 A simple python code for recognizing text.
 
